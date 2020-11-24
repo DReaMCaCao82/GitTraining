@@ -1,15 +1,15 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
-<title>Git¼ö¾÷</title>
+<meta charset=UTF-8">
+<title>Gitìˆ˜ì—…</title>
 </head>
 <body>
 	<fieldset>
-		<legend>GIT¼ö¾÷</legend>
-		<h2>Git¼ö¾÷ÀÔ´Ï´Ù.</h2>
+		<legend>GITìˆ˜ì—…</legend>
+		<h2>Gitìˆ˜ì—…ìž…ë‹ˆë‹¤.</h2>
 	</fieldset>
 </body>
 </html>
